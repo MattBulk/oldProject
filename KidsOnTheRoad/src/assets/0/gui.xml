@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:100fcf3ba4fdb3e654d5e3d35b214fbb$ -->
+<TextureAtlas imagePath="gui.png">
+    <SubTexture name="arrow" x="247" y="460" width="45" height="41" frameX="0" frameY="-2" frameWidth="45" frameHeight="45"/>
+    <SubTexture name="back_btn" x="411" y="42" width="95" height="38"/>
+    <SubTexture name="boy_car" x="132" y="414" width="66" height="96" frameX="-1" frameY="-2" frameWidth="70" frameHeight="100"/>
+    <SubTexture name="brake_btn" x="164" y="78" width="50" height="60"/>
+    <SubTexture name="builder" x="2" y="2" width="219" height="36" frameX="0" frameY="-1" frameWidth="219" frameHeight="38"/>
+    <SubTexture name="city_btn" x="2" y="378" width="128" height="128"/>
+    <SubTexture name="facebook" x="430" y="338" width="47" height="34" frameX="-6" frameY="-2" frameWidth="57" frameHeight="36"/>
+    <SubTexture name="finishLine" x="223" y="2" width="192" height="32"/>
+    <SubTexture name="girl_car" x="132" y="228" width="70" height="100"/>
+    <SubTexture name="grandprix" x="223" y="36" width="186" height="38"/>
+    <SubTexture name="help" x="336" y="445" width="86" height="36"/>
+    <SubTexture name="home_btn" x="248" y="414" width="43" height="41" frameX="-1" frameY="-2" frameWidth="45" frameHeight="45"/>
+    <SubTexture name="item_0" x="300" y="364" width="40" height="40" frameX="-5" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="item_1" x="294" y="456" width="40" height="40" frameX="-5" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="item_2" x="293" y="414" width="40" height="40" frameX="-5" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="level_01" x="342" y="364" width="86" height="36"/>
+    <SubTexture name="level_02" x="341" y="250" width="128" height="36"/>
+    <SubTexture name="level_03" x="336" y="326" width="90" height="36"/>
+    <SubTexture name="level_btn" x="132" y="330" width="64" height="62" frameX="0" frameY="-1" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="mode_01" x="204" y="282" width="126" height="36"/>
+    <SubTexture name="mode_02" x="217" y="76" width="154" height="36"/>
+    <SubTexture name="mountain_btn" x="2" y="248" width="128" height="128"/>
+    <SubTexture name="my_tracks" x="341" y="212" width="128" height="36"/>
+    <SubTexture name="next_btn" x="335" y="406" width="45" height="37" frameX="0" frameY="-4" frameWidth="45" frameHeight="45"/>
+    <SubTexture name="pause_btn" x="200" y="414" width="46" height="44" frameX="-1" frameY="-2" frameWidth="48" frameHeight="48"/>
+    <SubTexture name="play_btn" x="417" y="2" width="90" height="38"/>
+    <SubTexture name="play_gui_btn" x="204" y="320" width="94" height="92" frameX="-3" frameY="-5" frameWidth="100" frameHeight="100"/>
+    <SubTexture name="players_tile" x="211" y="152" width="128" height="128"/>
+    <SubTexture name="replay_btn" x="200" y="460" width="45" height="43" frameX="0" frameY="-1" frameWidth="45" frameHeight="45"/>
+    <SubTexture name="sea_btn" x="2" y="118" width="128" height="128"/>
+    <SubTexture name="set_btn" x="2" y="40" width="160" height="38"/>
+    <SubTexture name="settings_tile" x="373" y="82" width="128" height="128"/>
+    <SubTexture name="smokeParticle" x="132" y="118" width="25" height="25"/>
+    <SubTexture name="sound_off" x="2" y="80" width="152" height="36"/>
+    <SubTexture name="sound_on" x="216" y="114" width="146" height="36" frameX="0" frameY="0" frameWidth="152" frameHeight="36"/>
+    <SubTexture name="star" x="447" y="288" width="50" height="48" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="starContainer" x="159" y="140" width="50" height="48" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="tilt" x="132" y="190" width="76" height="36" frameX="0" frameY="-1" frameWidth="76" frameHeight="38"/>
+    <SubTexture name="touch" x="332" y="288" width="113" height="36" frameX="-1" frameY="-1" frameWidth="115" frameHeight="38"/>
+    <SubTexture name="tour" x="382" y="402" width="87" height="34" frameX="0" frameY="-1" frameWidth="87" frameHeight="36"/>
+    <SubTexture name="twitter" x="164" y="40" width="51" height="36" frameX="-2" frameY="0" frameWidth="57" frameHeight="36"/>
+    <SubTexture name="waterParticle" x="132" y="145" width="13" height="13"/>
+</TextureAtlas>

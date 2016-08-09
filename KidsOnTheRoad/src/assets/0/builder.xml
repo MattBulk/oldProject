@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:56f9e384bf3567507bbed021b8a2720c$ -->
+<TextureAtlas imagePath="builder.png">
+    <SubTexture name="1" x="2" y="386" width="32" height="32" frameX="-4" frameY="-4" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="2" x="2" y="470" width="32" height="32" frameX="-4" frameY="-4" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="3" x="224" y="78" width="22" height="36" frameX="-8" frameY="-1" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="4" x="224" y="40" width="22" height="36" frameX="-8" frameY="-1" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="5" x="2" y="436" width="32" height="32" frameX="-4" frameY="-4" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="6" x="124" y="348" width="32" height="32" frameX="-4" frameY="-4" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="7" x="224" y="146" width="22" height="28" frameX="-8" frameY="-6" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="8" x="224" y="116" width="22" height="28" frameX="-9" frameY="-6" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="9" x="36" y="386" width="38" height="20" frameX="0" frameY="-10" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="boy_btn" x="2" y="158" width="154" height="154"/>
+    <SubTexture name="build" x="2" y="350" width="98" height="34" frameX="-1" frameY="-1" frameWidth="100" frameHeight="36"/>
+    <SubTexture name="city_btn" x="158" y="370" width="64" height="64"/>
+    <SubTexture name="delete" x="2" y="314" width="120" height="34" frameX="-1" frameY="0" frameWidth="122" frameHeight="36"/>
+    <SubTexture name="delete_x" x="124" y="314" width="32" height="32"/>
+    <SubTexture name="girl_btn" x="2" y="2" width="154" height="154"/>
+    <SubTexture name="large" x="158" y="304" width="64" height="64"/>
+    <SubTexture name="medium" x="158" y="238" width="64" height="64"/>
+    <SubTexture name="mountain_btn" x="158" y="172" width="64" height="64"/>
+    <SubTexture name="ok_btn" x="102" y="382" width="49" height="34" frameX="-3" frameY="-2" frameWidth="57" frameHeight="36"/>
+    <SubTexture name="save_btn" x="158" y="2" width="83" height="36"/>
+    <SubTexture name="sea_btn" x="158" y="106" width="64" height="64"/>
+    <SubTexture name="small" x="158" y="40" width="64" height="64"/>
+    <SubTexture name="tile" x="224" y="176" width="13" height="13"/>
+</TextureAtlas>
