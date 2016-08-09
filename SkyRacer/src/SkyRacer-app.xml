@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/3.6">
+
+	<id>com.22lines.skyracer</id>
+	<filename>SkyRacer</filename>
+	<name>Sky Racer Endless</name>
+
+	<versionNumber>1.2.0</versionNumber>
+	<!-- Settings for the application's initial window. Required. -->
+	<initialWindow>
+		<!-- The main SWF or HTML file of the application. Required. -->
+		<!-- Note: In Flash Builder, the SWF reference is set automatically. -->
+		<content>[This value will be overwritten by Flash Builder in the output app.xml]</content>
+		
+
+	<autoOrients>false</autoOrients>
+        <fullScreen>true</fullScreen>
+        <visible>true</visible>
+        <renderMode>direct</renderMode>
+        <aspectRatio>landscape</aspectRatio>
+    </initialWindow>
+
+	<icon>
+		<image36x36>icons/icon36.png</image36x36>
+		<image48x48>icons/icon48.png</image48x48>
+		<image72x72>icons/icon72.png</image72x72>
+		
+	</icon>
+    <versionLabel></versionLabel>
+    <supportedLanguages>en</supportedLanguages>
+    
+    <android>
+    <manifestAdditions><![CDATA[
+        <manifest android:installLocation="auto">
+ 
+            <uses-permission android:name="android.permission.INTERNET"/>
+           	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+            <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+ 			<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+ 			<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+ 			<uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+        </manifest>
+ 
+    ]]></manifestAdditions>
+</android>
+    
+    <extensions>
+        <extensionID>com.sputnikgames.mobclix</extensionID>
+    </extensions>
+
+
+</application>

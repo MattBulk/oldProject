@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:055255b81b84564fea0cf68ddb977082$ -->
+<TextureAtlas imagePath="SkyRaceAtlas.png">
+    <SubTexture name="arrow" x="546" y="107" width="26" height="52" frameX="-2" frameY="-4" frameWidth="30" frameHeight="60"/>
+    <SubTexture name="back_btn" x="511" y="277" width="171" height="72" frameX="-4" frameY="-2" frameWidth="179" frameHeight="76"/>
+    <SubTexture name="brakeBar" x="1012" y="38" width="1" height="120"/>
+    <SubTexture name="brake_btn" x="639" y="396" width="100" height="120"/>
+    <SubTexture name="cloud_tile" x="728" y="765" width="60" height="64" frameX="-2" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="exit_btn" x="858" y="160" width="164" height="75" frameX="-6" frameY="-2" frameWidth="172" frameHeight="79"/>
+    <SubTexture name="facebook" x="855" y="297" width="130" height="89" frameX="-16" frameY="-6" frameWidth="156" frameHeight="103"/>
+    <SubTexture name="home_btn" x="328" y="276" width="181" height="74" frameX="-2" frameY="-1" frameWidth="185" frameHeight="76"/>
+    <SubTexture name="image_00000" x="317" y="352" width="69" height="97" frameX="0" frameY="-4" frameWidth="73" frameHeight="101"/>
+    <SubTexture name="image_00001" x="142" y="661" width="66" height="94" frameX="0" frameY="-2" frameWidth="66" frameHeight="98"/>
+    <SubTexture name="image_00002" x="214" y="615" width="66" height="95" frameX="0" frameY="-2" frameWidth="66" frameHeight="97"/>
+    <SubTexture name="image_00003" x="285" y="606" width="66" height="95" frameX="-2" frameY="0" frameWidth="70" frameHeight="95"/>
+    <SubTexture name="image_00004" x="448" y="631" width="66" height="95"/>
+    <SubTexture name="image_00005" x="380" y="603" width="66" height="95" frameX="-2" frameY="0" frameWidth="68" frameHeight="97"/>
+    <SubTexture name="image_00006" x="599" y="518" width="67" height="95" frameX="-2" frameY="0" frameWidth="69" frameHeight="95"/>
+    <SubTexture name="image_00007" x="668" y="518" width="67" height="94" frameX="-2" frameY="-2" frameWidth="69" frameHeight="98"/>
+    <SubTexture name="image_00008" x="529" y="565" width="67" height="94" frameX="-2" frameY="0" frameWidth="69" frameHeight="94"/>
+    <SubTexture name="image_00009" x="530" y="409" width="68" height="93"/>
+    <SubTexture name="image_00010" x="459" y="476" width="68" height="92"/>
+    <SubTexture name="image_00011" x="381" y="510" width="68" height="91"/>
+    <SubTexture name="image_00012" x="388" y="352" width="69" height="89" frameX="-2" frameY="0" frameWidth="71" frameHeight="89"/>
+    <SubTexture name="image_00013" x="310" y="516" width="68" height="88"/>
+    <SubTexture name="image_00014" x="215" y="527" width="68" height="86" frameX="-2" frameY="0" frameWidth="70" frameHeight="86"/>
+    <SubTexture name="image_00015" x="168" y="364" width="69" height="84"/>
+    <SubTexture name="image_00016" x="92" y="365" width="69" height="83"/>
+    <SubTexture name="image_00017" x="239" y="364" width="69" height="80" frameX="-2" frameY="0" frameWidth="71" frameHeight="80"/>
+    <SubTexture name="image_00018" x="239" y="446" width="69" height="79" frameX="-2" frameY="0" frameWidth="71" frameHeight="79"/>
+    <SubTexture name="image_00019" x="2" y="378" width="69" height="76"/>
+    <SubTexture name="image_00020" x="73" y="450" width="69" height="73"/>
+    <SubTexture name="image_00021" x="2" y="456" width="69" height="72"/>
+    <SubTexture name="image_00022" x="144" y="450" width="69" height="70" frameX="-2" frameY="0" frameWidth="71" frameHeight="70"/>
+    <SubTexture name="image_00023" x="144" y="522" width="69" height="69"/>
+    <SubTexture name="image_00024" x="73" y="525" width="69" height="67"/>
+    <SubTexture name="image_00025" x="2" y="530" width="69" height="66"/>
+    <SubTexture name="image_00026" x="144" y="593" width="68" height="66"/>
+    <SubTexture name="image_00027" x="388" y="443" width="69" height="65"/>
+    <SubTexture name="image_00028" x="459" y="409" width="69" height="65"/>
+    <SubTexture name="image_00029" x="73" y="594" width="68" height="63"/>
+    <SubTexture name="image_00030" x="310" y="451" width="69" height="63"/>
+    <SubTexture name="image_00031" x="2" y="598" width="68" height="62" frameX="0" frameY="0" frameWidth="70" frameHeight="62"/>
+    <SubTexture name="image_00032" x="72" y="659" width="68" height="60"/>
+    <SubTexture name="image_00033" x="451" y="570" width="67" height="59"/>
+    <SubTexture name="image_00034" x="529" y="504" width="68" height="59"/>
+    <SubTexture name="image_00035" x="2" y="662" width="68" height="59"/>
+    <SubTexture name="image_00036" x="684" y="336" width="70" height="58"/>
+    <SubTexture name="image_00037" x="684" y="277" width="71" height="57"/>
+    <SubTexture name="image_00038" x="243" y="304" width="72" height="58"/>
+    <SubTexture name="image_00039" x="168" y="304" width="73" height="58" frameX="0" frameY="-2" frameWidth="73" frameHeight="60"/>
+    <SubTexture name="image_00040" x="92" y="304" width="74" height="59"/>
+    <SubTexture name="image_00041" x="937" y="581" width="74" height="59"/>
+    <SubTexture name="image_00042" x="937" y="520" width="74" height="59"/>
+    <SubTexture name="item_0" x="839" y="520" width="96" height="96" frameX="-1" frameY="0" frameWidth="98" frameHeight="98"/>
+    <SubTexture name="item_1" x="741" y="482" width="96" height="96" frameX="-1" frameY="0" frameWidth="98" frameHeight="98"/>
+    <SubTexture name="item_10" x="2" y="2" width="324" height="300"/>
+    <SubTexture name="item_2" x="756" y="384" width="96" height="96" frameX="-1" frameY="-1" frameWidth="98" frameHeight="98"/>
+    <SubTexture name="item_3" x="757" y="286" width="96" height="96" frameX="-1" frameY="-1" frameWidth="98" frameHeight="98"/>
+    <SubTexture name="item_4" x="757" y="188" width="96" height="96" frameX="-1" frameY="-1" frameWidth="98" frameHeight="98"/>
+    <SubTexture name="jump_00000" x="67" y="904" width="63" height="93" frameX="-6" frameY="-6" frameWidth="75" frameHeight="105"/>
+    <SubTexture name="jump_00001" x="197" y="893" width="63" height="92" frameX="-6" frameY="-6" frameWidth="75" frameHeight="104"/>
+    <SubTexture name="jump_00002" x="207" y="799" width="63" height="92" frameX="-6" frameY="-6" frameWidth="75" frameHeight="104"/>
+    <SubTexture name="jump_00003" x="277" y="791" width="63" height="92" frameX="-6" frameY="-6" frameWidth="75" frameHeight="104"/>
+    <SubTexture name="jump_00004" x="457" y="874" width="63" height="91" frameX="-6" frameY="-6" frameWidth="75" frameHeight="103"/>
+    <SubTexture name="jump_00005" x="802" y="618" width="63" height="90" frameX="-6" frameY="-6" frameWidth="75" frameHeight="102"/>
+    <SubTexture name="jump_00006" x="867" y="708" width="63" height="88" frameX="-6" frameY="-6" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="jump_00007" x="932" y="642" width="63" height="88" frameX="-6" frameY="-6" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="jump_00008" x="581" y="709" width="63" height="88" frameX="-6" frameY="-6" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="jump_00009" x="663" y="708" width="63" height="89" frameX="-6" frameY="-6" frameWidth="75" frameHeight="101"/>
+    <SubTexture name="jump_00010" x="485" y="755" width="63" height="90" frameX="-6" frameY="-6" frameWidth="75" frameHeight="102"/>
+    <SubTexture name="jump_00011" x="349" y="788" width="63" height="92" frameX="-6" frameY="-6" frameWidth="75" frameHeight="104"/>
+    <SubTexture name="jump_00012" x="420" y="728" width="63" height="92" frameX="-6" frameY="-6" frameWidth="75" frameHeight="104"/>
+    <SubTexture name="jump_00013" x="2" y="909" width="63" height="93" frameX="-6" frameY="-6" frameWidth="75" frameHeight="105"/>
+    <SubTexture name="jump_00014" x="516" y="661" width="63" height="92" frameX="-6" frameY="-6" frameWidth="75" frameHeight="104"/>
+    <SubTexture name="jump_00015" x="2" y="814" width="63" height="93" frameX="-6" frameY="-6" frameWidth="75" frameHeight="105"/>
+    <SubTexture name="jump_00016" x="598" y="615" width="63" height="92" frameX="-6" frameY="-6" frameWidth="75" frameHeight="104"/>
+    <SubTexture name="jump_00017" x="668" y="614" width="63" height="92" frameX="-6" frameY="-6" frameWidth="75" frameHeight="104"/>
+    <SubTexture name="jump_00018" x="737" y="580" width="63" height="92" frameX="-6" frameY="-6" frameWidth="75" frameHeight="104"/>
+    <SubTexture name="jump_00019" x="392" y="882" width="63" height="91" frameX="-6" frameY="-6" frameWidth="75" frameHeight="103"/>
+    <SubTexture name="jump_00020" x="867" y="618" width="63" height="88" frameX="-6" frameY="-6" frameWidth="75" frameHeight="100"/>
+    <SubTexture name="jump_00021" x="282" y="703" width="65" height="86" frameX="-6" frameY="-6" frameWidth="77" frameHeight="98"/>
+    <SubTexture name="jump_00022" x="210" y="712" width="65" height="85" frameX="-6" frameY="-6" frameWidth="77" frameHeight="97"/>
+    <SubTexture name="jump_00023" x="353" y="700" width="65" height="86" frameX="-6" frameY="-6" frameWidth="77" frameHeight="98"/>
+    <SubTexture name="jump_00024" x="72" y="721" width="66" height="87" frameX="-6" frameY="-6" frameWidth="78" frameHeight="99"/>
+    <SubTexture name="jump_00025" x="733" y="674" width="63" height="89" frameX="-6" frameY="-6" frameWidth="75" frameHeight="101"/>
+    <SubTexture name="jump_00026" x="327" y="885" width="63" height="91" frameX="-6" frameY="-6" frameWidth="75" frameHeight="103"/>
+    <SubTexture name="jump_00027" x="132" y="904" width="63" height="92" frameX="-6" frameY="-6" frameWidth="75" frameHeight="104"/>
+    <SubTexture name="jump_00028" x="69" y="810" width="64" height="92" frameX="-6" frameY="-6" frameWidth="76" frameHeight="104"/>
+    <SubTexture name="jump_00029" x="262" y="893" width="63" height="91" frameX="-6" frameY="-6" frameWidth="75" frameHeight="103"/>
+    <SubTexture name="jump_00030" x="317" y="352" width="69" height="97" frameX="0" frameY="-4" frameWidth="73" frameHeight="101"/>
+    <SubTexture name="obstacle_0" x="854" y="388" width="128" height="130" frameX="-2" frameY="0" frameWidth="130" frameHeight="130"/>
+    <SubTexture name="obstacle_1" x="140" y="757" width="65" height="65"/>
+    <SubTexture name="obstacle_2" x="2" y="723" width="65" height="89"/>
+    <SubTexture name="obstacle_2b" x="414" y="822" width="52" height="50" frameX="-1" frameY="0" frameWidth="54" frameHeight="50"/>
+    <SubTexture name="obstacle_3" x="798" y="710" width="63" height="59" frameX="-1" frameY="-3" frameWidth="65" frameHeight="65"/>
+    <SubTexture name="obstacle_3b" x="135" y="824" width="60" height="78" frameX="-1" frameY="-7" frameWidth="64" frameHeight="86"/>
+    <SubTexture name="particle_car_exp" x="1012" y="26" width="10" height="10"/>
+    <SubTexture name="particle_pixel" x="1012" y="14" width="10" height="10"/>
+    <SubTexture name="particle_tower_exp" x="1012" y="2" width="10" height="10"/>
+    <SubTexture name="play_btn" x="328" y="107" width="216" height="96" frameX="-2" frameY="-3" frameWidth="220" frameHeight="100"/>
+    <SubTexture name="replay_btn" x="328" y="205" width="204" height="69" frameX="-3" frameY="-1" frameWidth="210" frameHeight="73"/>
+    <SubTexture name="set_btn" x="598" y="2" width="262" height="79" frameX="-9" frameY="-2" frameWidth="276" frameHeight="83"/>
+    <SubTexture name="shop_btn" x="546" y="188" width="209" height="87" frameX="-5" frameY="-3" frameWidth="217" frameHeight="91"/>
+    <SubTexture name="sound_off" x="328" y="2" width="268" height="103" frameX="-11" frameY="-1" frameWidth="280" frameHeight="105"/>
+    <SubTexture name="sound_on" x="598" y="83" width="258" height="103" frameX="-11" frameY="0" frameWidth="280" frameHeight="105"/>
+    <SubTexture name="twitter" x="862" y="58" width="146" height="91" frameX="-4" frameY="-5" frameWidth="156" frameHeight="103"/>
+    <SubTexture name="wings_00" x="2" y="304" width="88" height="72" frameX="-30" frameY="-8" frameWidth="150" frameHeight="100"/>
+    <SubTexture name="wings_01" x="511" y="351" width="126" height="56" frameX="-12" frameY="-18" frameWidth="150" frameHeight="100"/>
+    <SubTexture name="wings_02" x="855" y="237" width="140" height="58" frameX="-5" frameY="-27" frameWidth="150" frameHeight="100"/>
+    <SubTexture name="wings_03" x="862" y="2" width="148" height="54" frameX="-1" frameY="-27" frameWidth="150" frameHeight="100"/>
+</TextureAtlas>
